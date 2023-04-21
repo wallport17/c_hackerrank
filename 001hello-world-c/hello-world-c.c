@@ -2,7 +2,5 @@
 
 main()
 {	
-	printf("Hello, World!\n");
-	printf("Welcome to C programming.\n");
-}
-
+	printf("Hello, World!\n Welcome to C programming.\n");
+{	
